@@ -1,0 +1,22 @@
+{
+  "pin": "560008",
+  "sum": "400000",
+  "mobileno": "8657447426",
+  "selfage": "30",
+  "fullname": "Apratim Chaudhuri",
+  "email": "apratim.chaudhuri@gmai.com",
+  "firstname": "test",
+  "lastname": "automation",
+  "dob": "1/2/1992",
+  "income": "1000000",
+  "pan": "AMHPC9725D",
+  "designation": "QA",
+  "businessoccupation": "test analyst",
+  "add1": "GD",
+  "add2": "SaltLake",
+  "height": "180",
+  "weight": "75",
+  "nomfirstname": "testnomineefirst",
+  "nomlastname": "testnomineelast",
+  "nomdob": "1/2/1992"
+}
